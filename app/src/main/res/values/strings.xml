@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CheeseFinder</string>
+    <string name="app_name">JokeFinder</string>
     <string name="nothing_found">No cheeses found</string>
     <string name="search">search</string>
 </resources>
